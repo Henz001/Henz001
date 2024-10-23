@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 
-**I'm excited to join the GitHub community and share my coding journey with you! As a beginner developer, I'm eager to learn, take on new challenges, and showcase my projects.**
+I'm excited to join the GitHub community and share my coding journey with you! As a beginner developer, I'm eager to learn, take on new challenges, and showcase my projects.
 
 ## About me 
 
